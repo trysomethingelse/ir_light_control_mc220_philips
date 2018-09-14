@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=P2-2
+Added Pin To Net: NetName=Net*_9 Pin=R2-1
+Added Net: Name=Net*_9
+Added Room: Name=schemat

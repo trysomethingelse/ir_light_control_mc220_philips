@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=*-27
+Added Pin To Net: NetName=VCC Pin=*-30
+Added Room: Name=schemat
